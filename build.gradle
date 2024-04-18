@@ -13,6 +13,7 @@ dependencies {
 	implementation "com.github.muscaa:fluff-math:1.0.5+"
 	implementation "com.github.muscaa:fluff-files:1.0.0+"
 	implementation "com.github.muscaa:fluff-functions:1.0.1+"
+	implementation "com.github.muscaa:fluff-commander:1.0.7+"
 }
 
 java {
