@@ -2,6 +2,7 @@ v1
 
 author muscaa
 id fluff-commons
-depends muscaa/functions,muscaa/files,muscaa/bin,muscaa/reflection,muscaa/logging,muscaa/sorting,muscaa/crypto
+depends muscaa/fluff-functions, muscaa/fluff-files, muscaa/fluff-bin, muscaa/fluff-reflection, \
+		muscaa/fluff-logging, muscaa/fluff-sorting, muscaa/fluff-crypto, muscaa/fluff-json, muscaa/fluff-http
 url https://github.com/muscaa/fluff-commons
 # class
