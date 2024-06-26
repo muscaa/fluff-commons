@@ -16,13 +16,13 @@ repositories {
 
 dependencies {
 	api "com.github.muscaa:fluff-core:1.0.16+"
-	api "com.github.muscaa:fluff-functions:1.0.2+"
-	api "com.github.muscaa:fluff-files:1.0.2+"
-	api "com.github.muscaa:fluff-bin:1.0.3+"
-	api "com.github.muscaa:fluff-reflection:1.0.1+"
-	api "com.github.muscaa:fluff-logging:1.0.1+"
-	api "com.github.muscaa:fluff-sorting:1.0.1+"
-	api "com.github.muscaa:fluff-crypto:1.0.1+"
-	api "com.github.muscaa:fluff-json:1.0.1+"
-	api "com.github.muscaa:fluff-http:1.0.1+"
+	api "com.github.muscaa:fluff-functions:1.0.3+"
+	api "com.github.muscaa:fluff-files:1.0.3+"
+	api "com.github.muscaa:fluff-bin:1.0.4+"
+	api "com.github.muscaa:fluff-reflection:1.0.2+"
+	api "com.github.muscaa:fluff-logging:1.0.2+"
+	api "com.github.muscaa:fluff-sorting:1.0.2+"
+	api "com.github.muscaa:fluff-crypto:1.0.2+"
+	api "com.github.muscaa:fluff-json:1.0.2+"
+	api "com.github.muscaa:fluff-http:1.0.2+"
 }
